@@ -1,0 +1,14 @@
+protocol_version: 1
+project_id: "replace-project-id"
+canonical:
+  repository: "."
+  branch: "main"
+  commit: null
+active_phase: "PHASE-1"
+generated_summary: "PROJECT_LEDGER.md"
+actors:
+  codex:
+    capabilities: ["repository", "review"]
+  antigravity:
+    capabilities: ["repository", "review"]
+

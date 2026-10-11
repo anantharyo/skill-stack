@@ -1,0 +1,637 @@
+[
+  {
+    "Source": "codex/skills",
+    "Skill": ".system/imagegen",
+    "Files": 12
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": ".system/openai-docs",
+    "Files": 17
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": ".system/review-agent",
+    "Files": 2
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": ".system/skill-creator",
+    "Files": 9
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": ".system/skill-installer",
+    "Files": 8
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "bang-motion",
+    "Files": 28
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "brag",
+    "Files": 288
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "brandkit",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "brutalist-skill",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "gpt-tasteskill",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "image-to-code-skill",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "imagegen-frontend-mobile",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "imagegen-frontend-web",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "karpathy-guidelines",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "minimalist-skill",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "multi-agent-project-ledger",
+    "Files": 19
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "output-skill",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "playwright-cli",
+    "Files": 10
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "product-kickoff",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "redesign-skill",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "soft-skill",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "stitch-skill",
+    "Files": 2
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "taste-skill",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "taste-skill-v1",
+    "Files": 1
+  },
+  {
+    "Source": "codex/skills",
+    "Skill": "web-design-guidelines",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-bundled/computer-use/26.930.31730/skills/computer-use",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-bundled/visualize/1.0.46/skills/visualize",
+    "Files": 11
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-analytics-dashboard",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-business-review",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-design-report",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-experiment-analysis",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-financial-budget",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-investment-committee-memo",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-legal-memorandum",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-market-trends-report",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-minimal-letterhead",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-calendar",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-review",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-kickoff",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-tracker",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-sales-pipeline",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-dark-mode",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-light-mode",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-strategy-memorandum",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-system-design",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-team-alignment",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-three-statement-forecast",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/pages/0.1.21/skills/maintain-space",
+    "Files": 2
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/pages/0.1.21/skills/manage-schedules",
+    "Files": 2
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/pages/0.1.21/skills/organize-space",
+    "Files": 2
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/pages/0.1.21/skills/write-page",
+    "Files": 5
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/plugin-management/0.1.0/skills/plugin-management",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/sites/1.0.0/skills/sites",
+    "Files": 136
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/work-pets/0.1.6/skills/create-pet",
+    "Files": 21
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/work-pets/0.1.6/skills/pets",
+    "Files": 2
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-curated-remote/work-pets/0.1.6/skills/update-pet",
+    "Files": 2
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-primary-runtime/documents/26.1007.11041/skills/documents",
+    "Files": 80
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-primary-runtime/pdf/26.1007.11041/skills/pdf",
+    "Files": 4
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-primary-runtime/presentations/26.1007.11041/skills/presentations",
+    "Files": 61
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-primary-runtime/spreadsheets/26.1007.11041/skills/excel-live-control",
+    "Files": 13
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-primary-runtime/spreadsheets/26.1007.11041/skills/spreadsheets",
+    "Files": 19
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "openai-primary-runtime/template-creator/26.1007.11041/skills/template-creator",
+    "Files": 6
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/.openclaw/skills/ponytail",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/.openclaw/skills/ponytail-audit",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/.openclaw/skills/ponytail-debt",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/.openclaw/skills/ponytail-gain",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/.openclaw/skills/ponytail-help",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/.openclaw/skills/ponytail-review",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/skills/ponytail",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/skills/ponytail-audit",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/skills/ponytail-debt",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/skills/ponytail-gain",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/skills/ponytail-help",
+    "Files": 1
+  },
+  {
+    "Source": "codex/plugins/cache",
+    "Skill": "ponytail/ponytail/5.1.0/skills/ponytail-review",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "agent-reach",
+    "Files": 8
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "bang-motion",
+    "Files": 28
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "brag",
+    "Files": 288
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "brandkit",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "brutalist-skill",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "emil-design-eng",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "find-skills",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "gpt-tasteskill",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "gsap-core",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "gsap-frameworks",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "gsap-plugins",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "gsap-react",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "gsap-timeline",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "gsap-utils",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "image-to-code-skill",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "imagegen-frontend-mobile",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "imagegen-frontend-web",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "minimalist-skill",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "output-skill",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "playwright-cli",
+    "Files": 10
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "ponytail",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "ponytail-audit",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "ponytail-debt",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "ponytail-gain",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "ponytail-help",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "ponytail-review",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "redesign-skill",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "soft-skill",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "stitch-skill",
+    "Files": 2
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "taste-skill",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "taste-skill-v1",
+    "Files": 1
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "ui-ux-pro-max",
+    "Files": 3
+  },
+  {
+    "Source": "agents/skills",
+    "Skill": "web-design-guidelines",
+    "Files": 1
+  },
+  {
+    "Source": "antigravity/config/skills",
+    "Skill": "meta-ctwa-setup",
+    "Files": 2
+  },
+  {
+    "Source": "antigravity/config/skills",
+    "Skill": "product-kickoff",
+    "Files": 1
+  },
+  {
+    "Source": "antigravity/antigravity-cli/skills",
+    "Skill": "product-kickoff",
+    "Files": 1
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "agents-sdk",
+    "Files": 20
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "bang-motion",
+    "Files": 28
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "brag",
+    "Files": 288
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "cloudflare",
+    "Files": 320
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "cloudflare-email-service",
+    "Files": 6
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "cloudflare-one",
+    "Files": 1
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "cloudflare-one-migrations",
+    "Files": 1
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "durable-objects",
+    "Files": 4
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "karpathy-guidelines",
+    "Files": 1
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "sandbox-sdk",
+    "Files": 3
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "turnstile-spin",
+    "Files": 32
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "web-perf",
+    "Files": 1
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "workers-best-practices",
+    "Files": 3
+  },
+  {
+    "Source": "antigravity/legacy/skills",
+    "Skill": "wrangler",
+    "Files": 1
+  },
+  {
+    "Source": "hermes/skills",
+    "Skill": "product-kickoff",
+    "Files": 1
+  },
+  {
+    "Source": "projects",
+    "Skill": "2026-09-18/https-github-com-latent-spaces-brag/work/bang-motion-audit-20260923/bang-motion-main",
+    "Files": 45
+  },
+  {
+    "Source": "projects",
+    "Skill": "2026-09-18/https-github-com-latent-spaces-brag/work/brag-src-20260918003707/brag-main/skills/brag",
+    "Files": 288
+  }
+]

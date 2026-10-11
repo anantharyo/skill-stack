@@ -1,0 +1,7 @@
+requirements:
+  REQ-BOOTSTRAP-001:
+    title: "Replace with a stable PRD requirement"
+    phase: "PHASE-1"
+    work_items: ["TASK-001"]
+    state: "planned"
+

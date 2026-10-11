@@ -1,0 +1,7 @@
+interface:
+  display_name: "Multi-Agent Project Ledger"
+  short_description: "Coordinate agents across tasks, phases, and sessions"
+  default_prompt: "Use $multi-agent-project-ledger to inspect the shared ledger and continue my assigned project work safely."
+policy:
+  allow_implicit_invocation: true
+

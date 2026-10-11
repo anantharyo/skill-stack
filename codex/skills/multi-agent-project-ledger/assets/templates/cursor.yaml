@@ -1,0 +1,12 @@
+actor: "actor"
+last_seen_canonical_commit: null
+active_work_items: []
+waiting_for: []
+pending_requests: []
+checkpoint_work_item: null
+checkpoint_commit: null
+checkpoint_result: "Not started"
+next_action: "Inspect inbox and assigned work"
+seen:
+updated_at: "YYYY-MM-DDTHH:MM:SSZ"
+
